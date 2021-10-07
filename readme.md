@@ -11,18 +11,22 @@
 
   <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/kauebarbosadev/AluraLog">
 
+<h4 align="center">
+	🚧  Status do Projeto: Concluído ✅ 🚧
+</h4>
+
 
 Tabela de Conteúdos
 =================
 <!--ts-->
-   * [Sobre o Projeto](#Sobre-o-Projeto)
-   * [Funcionalidades](#Funcionalidades)
-   * [Layout](#layout)
-     * [Desktop](#desktop)
-     * [Mobile](#mobile)
-   * [Como visualizar o Dashboard](#como-executar-o-dashboard)
-   * [Tecnologias](#tecnologias)
-   * [Autor](#autor)
+   * [Sobre o Projeto](#-Sobre-o-Projeto)
+   * [Funcionalidades](#-Funcionalidades)
+   * [Layout](#-layout)
+     * [Desktop](#-desktop)
+     * [Mobile](#-mobile)
+   * [Como visualizar o Dashboard](#-como-visualizar-o-dashboard)
+   * [Tecnologias](#-tecnologias)
+   * [Autor](#-autor)
 <!--te-->
 
 
@@ -60,13 +64,18 @@ Para desenvolver esse projeto foi utilizada a versão desktop do **PowerBI** ofe
 
 ### Desktop
 
-<img alt="Dashboard Desktop" src="https://kauebarbosa.dev/wp-content/uploads/2021/10/a.png" width="200px">
+<p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
+<img alt="Dashboard Desktop" title="Dashboard Desktop" src="https://kauebarbosa.dev/wp-content/uploads/2021/10/a.png" width="200px">
+</p>
 
 ### Mobile
 
-<img alt="Dashboard Mobile" src="https://kauebarbosa.dev/wp-content/uploads/2021/10/IMG_0184.jpg" width="200px">
 
-<img alt="Dashboard Mobile" src="https://kauebarbosa.dev/wp-content/uploads/2021/10/IMG_0185.jpg" width="195px">
+<p align="center">
+  <img alt="Dashboard Mobile" title="Dashboard Mobile" src="https://kauebarbosa.dev/wp-content/uploads/2021/10/IMG_0184.jpg" width="200px">
+
+  <img alt="Dashboard Mobile" title="Dashboard Mobile" src="https://kauebarbosa.dev/wp-content/uploads/2021/10/IMG_0185.jpg" width="195px">
+</p>
 
 ---
 
@@ -82,7 +91,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 #### **Dashboard**
 
--   **[Microsfot PowerBI](https://github.com/ReactTraining/react-router/tree/master/packages/react-router-dom)**
+-   **[Microsoft PowerBI](https://github.com/ReactTraining/react-router/tree/master/packages/react-router-dom)**
 
 ---
 
