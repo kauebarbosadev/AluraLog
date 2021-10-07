@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-    🚛 Dashboard desenvolvido para a Semana 1 do Alura Challenge BI a fim de atender uma emrpesa de logística. 🚛
+    🚛 Dashboard desenvolvido para a Semana 1 do Alura Challenge BI a fim de atender uma empresa de logística. 🚛
 </h3>
 
 <p align="center">
